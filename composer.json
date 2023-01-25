@@ -1,8 +1,9 @@
 {
     "name": "yudiz-bhargav/contact-us",
-    "description": "simpal form",
+    "description": "simple form",
     "type": "library",
     "license": "mit",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "YudizBhargav\\ContactUs\\": "src/"
@@ -16,6 +17,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "illuminate/support": "9.x-dev"
+        "illuminate/support": "8.x-dev",
+        "php": "^7.3"
     }
 }
