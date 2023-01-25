@@ -3,6 +3,7 @@
     "description": "simple form",
     "type": "library",
     "license": "MIT",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "YudizBhargav\\ContactUs\\": "src/"
