@@ -1,0 +1,21 @@
+{
+    "name": "yudiz-bhargav/contact-us",
+    "description": "simpal form",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "YudizBhargav\\ContactUs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bhargav Detroja",
+            "email": "bhargav.detroja@yudiz.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "9.x-dev"
+    }
+}
