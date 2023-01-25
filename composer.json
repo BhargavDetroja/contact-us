@@ -17,7 +17,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "illuminate/support": "8.x-dev",
+        "illuminate/support": "^8.x-dev",
         "php": "^8.0"
     }
 }
