@@ -2,7 +2,7 @@
     "name": "yudiz-bhargav/contact-us",
     "description": "simple form",
     "type": "library",
-    "license": "mit",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "YudizBhargav\\ContactUs\\": "src/"
